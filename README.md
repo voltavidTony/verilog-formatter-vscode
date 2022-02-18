@@ -1,6 +1,6 @@
-# verilog-formatter README
+# verilog-formatter-vscode README
 
-This is the README for your extension "verilog-formatter". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "verilog-formatter-vscode". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 

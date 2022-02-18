@@ -1,7 +1,7 @@
 {
-	"name": "verilog-formatter",
-	"displayName": "Verilog Formatter",
-	"description": "",
+	"name": "verilog-formatter-vscode",
+	"displayName": "Verilog Formatter for Visual Studio Code",
+	"description": "A Visual Studio Code extension version of the iStyle Verilog Formatter by haimag",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.64.0"
@@ -10,13 +10,13 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:verilog-formatter.helloWorld"
+		"onCommand:verilog-formatter-vscode.helloWorld"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "verilog-formatter.helloWorld",
+				"command": "verilog-formatter-vscode.helloWorld",
 				"title": "Hello World"
 			}
 		]
